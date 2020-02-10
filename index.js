@@ -1,12 +1,13 @@
-/*Ejercicio 3 Hacer una función que permita saber cuántos días faltan para que acabe el año. */
+/*Ejercicio  4 Hacer una función que valide si dos objetos tienen las mismas keys y los mismos valores. La comparación debe ser superficial. */
 
-function daysToFinishYear(){
-    date = new Date();
-    quantDays=31;
-    let day = date.getDate();
-    let year = 366;
-    year - quantDays;
-}
+function compareObject
+let ObjetoA = {
+    name: name,
+    lastName: lastName,
 
-console.log (year-day);
-}
+    let ObjetoB = {
+        name: name,
+        lastName: lastName,
+    }
+
+    if objects
